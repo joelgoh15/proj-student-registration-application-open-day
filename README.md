@@ -1,8 +1,8 @@
-# Introduction
-A web application that handles the registration of students for a university open-day event.
+## Introduction
+A web application that works with the registration of students for a university open-day event.
 
 ## Technical Details
-1. Technology stacks and approach used:
+Technology stacks and approach used:
 <ul>
   <ul>
     <li>HTML5</li>  
